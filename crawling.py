@@ -9,7 +9,7 @@ REVIEWS_PER_GAME_LIMIT = 5000
 LANGUAGES = ['koreana'] 
 
 # 수집하고 싶은 장르 리스트 (SteamSpy 공식 명칭 준수)
-TARGET_GENRES = ['Simulation']
+TARGET_GENRES = ['Strategy']
 
 # 경로 설정
 BASE_PATH = os.path.dirname(os.path.abspath(__file__))
