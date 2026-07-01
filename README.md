@@ -20,3 +20,10 @@
 
 # 2. 실행   
 루트폴더 속 **start.bat** 실행 시 가상 환경 생성 -> 필수 라이브러리 설치 -> 스트림릿 구동 순으로 실행
+
+
+## 시연영상   
+
+
+https://github.com/user-attachments/assets/e45b959b-4544-4eaf-9e03-0dff4597f4ec
+
