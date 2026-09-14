@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+
+# Local data / generated outputs
+data/*.csv
+!data/*.csv.example
+scripts/steam_data/
+
+# Trained model artifacts
+model/*.keras
+model/*.pkl
+!model/*.keras.example
+!model/*.pkl.example
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
